@@ -1,0 +1,1 @@
+echo "###alias >> test.sh"  
